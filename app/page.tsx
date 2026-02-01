@@ -32,6 +32,7 @@ const categories: Category[] = [
     color: 'from-[#4FC3F7] to-[#29B6F6]',
     bgImage: '/images/rekrutieren-bg.jpg',
     tools: [
+      { name: 'Teaser Partnerprogramm', url: '#' },
       { name: 'Rekrutierungsgespräch', url: 'https://dpc.finanziell-frei24.de/partner' },
       { name: 'Provisionsrechner', url: '#' },
     ],
@@ -61,6 +62,7 @@ const categories: Category[] = [
     tools: [
       { name: 'E Learning Kurse', url: '#' },
       { name: 'Erklärvideos', url: '#' },
+      { name: 'Downloads und Formulare', url: '#' },
     ],
   },
 ]
