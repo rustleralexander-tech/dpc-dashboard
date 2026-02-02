@@ -33,7 +33,7 @@ const categories: Category[] = [
     bgImage: '/images/rekrutieren-bg.jpg',
     tools: [
       { name: 'Rekrutierungsgespräch', url: 'https://v0-recruiting-website-for-dpc.vercel.app/' },
-      { name: 'Provisionsrechner', url: '#' },
+      { name: 'Provisionsrechner', url: '/provisionsrechner' },
     ],
   },
   {
